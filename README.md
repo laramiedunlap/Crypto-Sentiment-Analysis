@@ -9,8 +9,6 @@ In this notebook I want to demonstrate some of the VAST functionality python pro
 3. [Named Entity Recognition](#3---Named-Entity-Recognition)
 
 
-## Instructions
-
 ### 1 - Sentiment Analysis
 
 Here we will use a free [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and create DataFrames of sentiment scores for each coin.
