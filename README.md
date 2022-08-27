@@ -1,7 +1,5 @@
 # Crypto Sentiment Analyzer
 
-![Stock Sentiment](Images/sentimental.jpeg)
-
 ## Purpose
 
 In this notebook I want to demonstrate some of the VAST functionality python provides for NLP. Since crypto is a hot topic (especially for traders), I chose Bitcoin and Ethereum as a launching point. The main topics I'll cover:
